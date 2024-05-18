@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/brixyan/Projects/StormHacks",
+  "type": [
+    "web"
+  ],
+  "name": "StormHacks2024",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#bfa89e",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
